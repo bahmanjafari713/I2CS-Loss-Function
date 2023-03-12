@@ -9,11 +9,11 @@
 # **Implementation**
 
 * First install tensorflow and keras library.
+```
+pip install tensorflow
+```
 * Second load MNIST dataset from the keras.
 * Third import the I2CS-loss-Layer.
 * Also use I2CS-loss and I2CS-accuracy as you are fitting the model.
-
-
-
 
 
