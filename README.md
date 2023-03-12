@@ -6,7 +6,7 @@
 * Author bahmanjafari713@gmail.com
 * published in 2023
 
-# **content**
+# **Implementation**
 
 * First install tensorflow and keras library.
 * Second load MNIST dataset from the keras.
