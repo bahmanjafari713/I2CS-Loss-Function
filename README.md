@@ -15,11 +15,12 @@ pip install tensorflow
 ```
 pip install keras
 ```
-* Second load MNIST dataset from the keras.
-* Third import the I2CS-loss-Layer.
+
+* Second import the I2CS-loss-Layer.
 ```
 import I2CS_layer.py
 ```
+* Third load MNIST dataset from the keras.
 * Also use I2CS-loss and I2CS-accuracy as you are fitting the model.
 
 
