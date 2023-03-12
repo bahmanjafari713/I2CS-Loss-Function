@@ -1,8 +1,6 @@
 # I2CS-Loss-Function
 
-I will share I2CS loss function for students
+I implement the I2CS loss function by tensorflow and keras library.
 
-I2CS loss function implemented by tensorflow 2 and keras library.
-
-easy to learn and run for basic learner.
+> It's easy to run and use for basic learner.
 
